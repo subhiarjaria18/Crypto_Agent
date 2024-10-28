@@ -1,0 +1,6 @@
+altair
+together
+python-dotenv
+requests
+streamlit
+
