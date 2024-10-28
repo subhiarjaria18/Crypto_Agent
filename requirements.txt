@@ -1,6 +1,9 @@
-altair
+streamlit
+requests
 together
 python-dotenv
-requests
-streamlit
+matplotlib
+pandas
+altair
+
 
